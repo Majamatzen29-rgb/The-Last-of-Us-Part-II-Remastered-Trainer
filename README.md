@@ -1,183 +1,191 @@
 # Nordic Mod Developer
-## The Last of Us Part II Remastered Trainer
+# The Last of Us Part II Remastered Trainer
 
-Welcome to the **The Last of Us Part II Remastered Trainer**, created by Nordic Mod Developer!
+Welcome to the **The Last of Us Part II Remastered Trainer**, developed by Nordic Mod Developer!
 
-This free trainer provides gameplay cheats, weapon enhancements, survival options, and resource editing features for the PC version of the game.
+This free trainer is designed to give players more control over their single-player gameplay. It includes cheats for survival, weapons, damage, crafting, and resources.
 
 **Developer:** Nordic Mod Developer  
 **Game:** The Last of Us Part II Remastered  
-**Platform:** PC — Windows  
+**Platform:** Windows PC  
 **Price:** Free
-
----
-
-## How to Use the Trainer
-
-### Step 1 — Download the Trainer
-Download the trainer `.exe` file from the official Nordic Mod Developer release.
-
-### Step 2 — Start the Game
-Launch The Last of Us Part II Remastered on your PC and load your save.
-
-### Step 3 — Launch the Trainer
-Run the downloaded trainer `.exe` file and keep it open while playing.
-
-### Step 4 — Activate Cheats
-Return to the game and press the keyboard shortcut for the feature you want to activate.
-
-**Tip:** Use the numeric keypad on your keyboard for shortcuts beginning with `Num`.
-
----
-
-## Keyboard Shortcuts
-
-### Main Cheats
-
-| Keybind | Feature |
-|---|---|
-| Num 1 | God Mode / Ignore Hits |
-| Num 2 | Infinite Health |
-| Num 3 | Infinite Ammo |
-| Num 4 | No Reload |
-| Num 5 | Flamethrower No Reload |
-| Num 6 | Super Accuracy |
-| Num 7 | No Recoil |
-| Num 8 | Rapid Fire |
-| Num 9 | Infinite Shivs |
-| Num 0 | Infinite Weapon Durability |
-| Num . | Super Damage / One-Hit Kills |
-| Num + | Damage Multiplier |
-| Num - | Defense Multiplier |
-
-### Additional Cheats
-
-| Keybind | Feature |
-|---|---|
-| Ctrl + Num 1 | Infinite Stamina |
-| Ctrl + Num 2 | Infinite Health Kits |
-| Ctrl + Num 3 | Infinite Throwable Items |
-| Ctrl + Num 4 | Ignore Crafting Requirements |
-| Ctrl + Num 5 | Set Game Speed |
-
-### Resource Editing
-
-| Keybind | Feature |
-# Nordic Mod Developer
-# The Last of Us Part II Remastered Trainer
-
-Welcome to the **The Last of Us Part II Remastered Trainer**, created by Nordic Mod Developer!
-
-This free trainer is designed to give players more control over their single-player experience with gameplay cheats, weapon enhancements, and resource options.
-
-- **Developer:** Nordic Mod Developer
-- **Game:** The Last of Us Part II Remastered
-- **Platform:** Windows PC
-- **Price:** Free
 
 ---
 
 ## Table of Contents
 
 1. Requirements
-2. How to Download
-3. How to Install
-4. How to Start the Trainer
-5. Keyboard Shortcuts
-6. Feature Guide
-7. Troubleshooting
-8. Safety Information
-9. Support
+2. Downloading the Trainer
+3. Installing the Trainer
+4. Launching the Trainer
+5. Understanding the Keyboard Shortcuts
+6. All Keyboard Shortcuts
+7. Understanding the Features
+8. Troubleshooting
+9. Frequently Asked Questions
+10. Safety Information
 
 ---
 
 ## 1. Requirements
 
-Before you begin, make sure you have:
+Before using the trainer, make sure you have:
 
-- A Windows PC.
-- The PC version of The Last of Us Part II Remastered installed.
-- A keyboard with a numeric keypad.
-- The trainer downloaded from the official Nordic Mod Developer release.
+- The Last of Us Part II Remastered installed on your PC.
+- A Windows computer.
+- A keyboard with a numeric keypad for the Num shortcuts.
+- A downloaded copy of the trainer from the official Nordic Mod Developer release.
 
-**Important:** This is a Windows PC trainer. It does not run directly on consoles or mobile devices.
+The trainer is provided as a Windows `.exe` file.
 
 ---
 
-## 2. How to Download
+## 2. Downloading the Trainer
 
-1. Open the official Nordic Mod Developer GitHub repository.
+Follow these steps to download the correct file.
+
+1. Open the Nordic Mod Developer GitHub repository.
 2. Find the release for The Last of Us Part II Remastered Trainer.
-3. Locate the trainer `.exe` file under the release assets.
-4. Click the file to download it.
+3. Scroll to the **Assets** section of the release.
+4. Click the trainer `.exe` file.
 5. Wait for the download to finish.
 6. Open your Downloads folder and locate the downloaded file.
 
-Only download the trainer from a source you trust.
+**Why does the correct file matter?**
+
+The trainer is designed for a specific game. Downloading a different trainer or an incompatible version may cause features not to work.
+
+Only download files from a source you trust.
 
 ---
 
-## 3. How to Install the Trainer
+## 3. Installing the Trainer
 
-The trainer is a standalone `.exe` file, so a traditional installation wizard may not be required.
+### Step 1 — Find the Downloaded File
 
-### Step 1 — Locate the File
+Open File Explorer by pressing `Windows + E`.
 
-Open your Downloads folder and find the trainer `.exe` file.
+Select **Downloads** from the left-hand menu.
 
-### Step 2 — Create a Folder
+Find the trainer `.exe` file you downloaded.
 
-If you want to keep the trainer organised:
+### Step 2 — Choose Where to Keep the Trainer
 
-1. Open File Explorer.
-2. Open a folder where you want to store your trainers.
-3. Create a new folder named `Nordic Mod Developer`.
-4. Move the downloaded trainer into that folder.
+You can run the trainer from your Downloads folder, or move it to a dedicated folder to keep your files organised.
+
+For example, you could create a folder named:
+
+`Nordic Mod Developer`
+
+Move the trainer file into that folder.
+
+**Why do this?**
+
+Keeping the trainer in one place makes it easier to find and launch next time.
 
 ### Step 3 — Extract the File if Necessary
 
-If the download is a ZIP archive:
+If the download is a `.zip` file:
 
 1. Right-click the ZIP file.
 2. Select **Extract All**.
 3. Choose a destination folder.
-4. Click **Extract**.
-5. Locate the trainer `.exe` inside the extracted folder.
+4. Select **Extract**.
+5. Open the extracted folder and find the trainer `.exe`.
 
-If you downloaded the `.exe` directly, you can skip this step.
+If the downloaded file is already an `.exe`, you can skip this step.
 
-### Step 4 — Check the File
+### Step 4 — Check the File Before Opening It
 
-Before opening the trainer, make sure it came from the intended release. If Windows Security or your antivirus displays a warning, review it carefully. Do not blindly bypass security warnings.
+Make sure the file came from the intended Nordic Mod Developer release.
 
-**Installation complete!** You are now ready to try launching the trainer.
+If Windows Security or your antivirus displays a warning, stop and review it. Do not blindly disable your security software or bypass a warning.
 
----
+### Step 5 — Finish
 
-## 4. How to Start the Trainer
+If the trainer is a standalone executable, a separate installation wizard may not be needed.
 
-Follow these steps whenever you want to use the trainer.
-
-1. Start The Last of Us Part II Remastered.
-2. Load your saved game or begin a new game.
-3. Wait until you can control your character.
-4. Open the folder containing the trainer.
-5. Double-click the trainer `.exe` file.
-6. Keep the trainer running while playing.
-7. Return to the game.
-8. Press the keyboard shortcut for the feature you want to use.
-
-If the trainer does not detect the game, close both programs and try starting the game before the trainer again.
-
-The exact launch order required may depend on the trainer build.
+Once the file is in the folder you chose, you can proceed to launching it.
 
 ---
 
-## 5. Keyboard Shortcuts
+## 4. Launching the Trainer
 
-Use the following shortcuts to activate the trainer features.
+### Step 1 — Start the Game
 
-**Keyboard tip:** `Num 1` means the number 1 on the numeric keypad, not the number row above the letters. Check that Num Lock is enabled if your numeric keypad does not respond.
+Open your usual game launcher and start The Last of Us Part II Remastered.
+
+Wait for the game to load.
+
+### Step 2 — Load Your Save
+
+Load your saved game or begin a new game.
+
+Wait until you can control your character before testing the trainer.
+
+### Step 3 — Open the Trainer
+
+Press `Windows + E` to open File Explorer.
+
+Navigate to the folder where you saved the trainer.
+
+Double-click the trainer `.exe` file.
+
+### Step 4 — Return to the Game
+
+Keep the trainer open and switch back to the game.
+
+Press the shortcut for the feature you want to use.
+
+**Why start the game first?**
+
+Some trainers need the game to be running before they can find and interact with it. If your trainer does not detect the game, try closing both programs and starting the game before opening the trainer again.
+
+The required launch order may depend on the trainer's implementation.
+
+---
+
+## 5. Understanding the Keyboard Shortcuts
+
+Before using the cheats, it helps to understand the keyboard labels.
+
+### What Does `Num 1` Mean?
+
+`Num 1` means the number 1 key on the separate numeric keypad, usually located on the right-hand side of a full-size keyboard.
+
+It does not mean the number 1 above the letters.
+
+### What Is Num Lock?
+
+Num Lock controls whether the numeric keypad enters numbers or performs other functions.
+
+If a shortcut does not respond, check whether Num Lock is enabled.
+
+### What Does `Ctrl + Num 1` Mean?
+
+Hold down the `Ctrl` key and press `Num 1` on the numeric keypad.
+
+Release both keys afterwards.
+
+### What Does `Alt + Num 1` Mean?
+
+Hold down the `Alt` key and press `Num 1` on the numeric keypad.
+
+Release both keys afterwards.
+
+### What About Num Plus and Num Minus?
+
+Use the `+` and `-` keys on the numeric keypad where available.
+
+Keyboard layouts differ, so the exact key position may vary.
+
+**Important:** A keyboard without a separate numeric keypad may not support these shortcuts in the expected way.
+
+---
+
+## 6. All Keyboard Shortcuts
+
+The following list documents the supplied trainer controls. Confirm that these bindings match the Part II executable before publishing.
 
 ### Main Cheats
 
@@ -220,103 +228,196 @@ Use the following shortcuts to activate the trainer features.
 | Alt + Num 7 | Edit Binding |
 | Alt + Num 8 | Edit Blade |
 
-**Note:** These keybinds are based on the controls supplied for the trainer project. Confirm that they match the Part II executable before publishing.
-
 ---
 
-## 6. Feature Guide
+## 7. Understanding the Features
 
-### Survival
-- **God Mode / Ignore Hits:** Intended to protect the player from enemy attacks.
-- **Infinite Health:** Intended to prevent health from running out.
-- **Infinite Stamina:** Intended to provide unlimited stamina.
+### Survival Cheats
 
-### Weapons
-- **Infinite Ammo:** Intended to provide unlimited ammunition.
-- **No Reload:** Intended to remove the need to reload supported weapons.
-- **Flamethrower No Reload:** Intended to prevent the flamethrower from needing to reload.
-- **Super Accuracy:** Intended to improve shooting accuracy.
-- **No Recoil:** Intended to reduce weapon recoil.
-- **Rapid Fire:** Intended to increase firing speed.
-- **Infinite Shivs:** Intended to provide unlimited shivs.
-- **Infinite Weapon Durability:** Intended to preserve supported weapon durability.
+**God Mode / Ignore Hits**
 
-### Damage
-- **Super Damage / One-Hit Kills:** Intended to increase damage dealt to enemies.
-- **Damage Multiplier:** Intended to adjust outgoing damage.
-- **Defense Multiplier:** Intended to adjust incoming damage.
+Designed to prevent or reduce the effects of enemy attacks on the player.
+
+**Infinite Health**
+
+Designed to keep the player's health from running out under supported conditions.
+
+**Infinite Stamina**
+
+Designed to provide unlimited stamina for supported actions.
+
+### Weapon Cheats
+
+**Infinite Ammo**
+
+Designed to prevent ammunition from running out.
+
+**No Reload**
+
+Designed to remove the need to reload supported weapons.
+
+**Flamethrower No Reload**
+
+Designed to prevent the flamethrower from needing to reload.
+
+**Super Accuracy**
+
+Designed to improve shooting accuracy.
+
+**No Recoil**
+
+Designed to reduce weapon movement caused by recoil.
+
+**Rapid Fire**
+
+Designed to increase the firing speed of supported weapons.
+
+**Infinite Shivs**
+
+Designed to provide unlimited shivs.
+
+**Infinite Weapon Durability**
+
+Designed to prevent supported weapons from losing durability.
+
+### Damage Cheats
+
+**Super Damage / One-Hit Kills**
+
+Designed to increase the damage dealt to enemies.
+
+**Damage Multiplier**
+
+Designed to adjust outgoing damage.
+
+**Defense Multiplier**
+
+Designed to adjust incoming damage.
 
 ### Supplies and Crafting
-- **Infinite Health Kits:** Intended to provide unlimited health kits.
-- **Infinite Throwable Items:** Intended to provide unlimited throwable items.
-- **Ignore Crafting Requirements:** Intended to bypass crafting material requirements.
 
-### Game Speed and Resources
-- **Set Game Speed:** Intended to adjust gameplay speed.
-- **Resource Editing:** Intended to modify the listed upgrade points and crafting materials.
+**Infinite Health Kits**
 
-The actual behaviour of each feature depends on the trainer build and compatible game version.
+Designed to provide unlimited health kits.
+
+**Infinite Throwable Items**
+
+Designed to provide unlimited throwable items.
+
+**Ignore Crafting Requirements**
+
+Designed to bypass the usual crafting material requirements.
+
+### Game Speed
+
+**Set Game Speed**
+
+Designed to change the speed at which the game runs.
+
+Extreme speed settings may cause unexpected gameplay behaviour.
+
+### Resource Editing
+
+The resource-editing shortcuts are intended to modify the listed upgrade points and crafting materials. The exact result depends on how each feature is implemented in the trainer.
+
+**Feature note:** These explanations describe the intended functions. Actual results depend on the trainer build and compatible game version.
 
 ---
 
-## 7. Troubleshooting
+## 8. Troubleshooting
 
-### The Trainer Will Not Open
+### Problem: The Trainer Will Not Open
 
-- Check that the download completed successfully.
-- Confirm that you are opening the correct `.exe` file.
-- Check whether Windows or your security software has blocked the file.
-- Verify the file's source before deciding whether to run it.
+Try the following:
 
-### The Keybinds Do Not Work
+1. Check that the download completed.
+2. Confirm that you are opening the correct `.exe` file.
+3. Check whether Windows Security has blocked the file.
+4. Verify the file's source before deciding whether to run it.
 
-- Make sure the game is running.
-- Try launching the trainer after loading into the game.
-- Click the game window before pressing a shortcut.
-- Check Num Lock.
-- Use the numeric keypad rather than the number row above the letters.
-- Confirm that the keybinds match your trainer version.
+Do not disable security protections simply to make an unknown file run.
 
-### The Game Crashes
+### Problem: The Keyboard Shortcuts Do Not Work
+
+Check the following:
+
+1. Make sure the game is running.
+2. Confirm that the trainer is open.
+3. Click the game window before pressing a shortcut.
+4. Check Num Lock.
+5. Use the numeric keypad instead of the number row above the letters.
+6. Make sure you are pressing the correct modifier key for Ctrl or Alt shortcuts.
+
+If the shortcuts still do not work, the trainer may not support your current game version or the bindings may differ from this guide.
+
+### Problem: The Trainer Does Not Detect the Game
+
+1. Close the trainer.
+2. Close the game.
+3. Start the game and load into gameplay.
+4. Open the trainer again.
+5. Test the relevant feature.
+
+This is a troubleshooting suggestion, not a guarantee that every trainer will work with this launch order.
+
+### Problem: Some Cheats Work but Others Do Not
+
+Different features may depend on different game values or gameplay situations.
+
+Check that:
+
+- You are using the correct trainer.
+- Your game version is supported.
+- You are using the correct keyboard shortcut.
+- The feature is relevant to the current gameplay situation.
+
+### Problem: The Game Crashes
 
 1. Close the game and trainer.
 2. Start the game without the trainer.
 3. Check whether the game still crashes.
 4. Back up your save files before testing again.
-5. If the issue continues, report the problem to Nordic Mod Developer.
-
-### Some Features Do Not Work
-
-- Confirm that you have the correct trainer for The Last of Us Part II Remastered.
-- Check whether your game version is supported.
-- Some features may only work in certain gameplay situations.
+5. If the problem continues, report it to Nordic Mod Developer.
 
 ---
 
-## 8. Safety Information
+## 9. Frequently Asked Questions
+
+### Is the trainer free?
+
+Yes. The trainer is provided free of charge by Nordic Mod Developer.
+
+### Do I need a separate installer?
+
+Not necessarily. If the release contains a standalone `.exe`, you may only need to download it and place it in a suitable folder.
+
+### Do I need to keep the trainer open?
+
+Keep it running while using its features, unless the specific trainer build says otherwise.
+
+### Why do I need the numeric keypad?
+
+The listed shortcuts use Num keys. A separate numeric keypad is the most straightforward way to use these bindings.
+
+### Will every feature work with every game update?
+
+Not necessarily. Compatibility depends on the game version and the trainer implementation.
+
+### Can I report a problem?
+
+Yes. Use the project's GitHub Issues page if one is available. Include the game version, trainer version, the affected shortcut, and a description of the problem.
+
+Do not post passwords or other private information in a public issue.
+
+---
+
+## 10. Safety Information
 
 - Back up your saved games before using cheats.
-- Download the trainer only from a source you trust.
-- Do not blindly disable antivirus or Windows security protections.
+- Download the trainer from a trusted source.
+- Review security warnings rather than blindly bypassing them.
+- Close the trainer if the game behaves unexpectedly.
 - Compatibility may vary between game and trainer versions.
-- Avoid using cheats in online environments where they may violate the rules.
-
-Use the trainer at your own discretion.
-
----
-
-## 9. Support
-
-If you encounter a problem, report it through the project's GitHub Issues page, if available.
-
-When reporting a problem, include:
-
-- Your game version.
-- Your trainer version.
-- The keybind or feature that failed.
-- A short description of what happened.
-
-Please do not include passwords or other private information in a public issue.
 
 ---
 
@@ -326,6 +427,5 @@ Thank you for using the **The Last of Us Part II Remastered Trainer** by Nordic 
 
 We hope you enjoy the game your way.
 
-**Created by Nordic Mod Developer**
-
+**Created by Nordic Mod Developer**  
 **Free Trainer — Have Fun!**
